@@ -1,6 +1,8 @@
 # eventsub-debugger
 
-A simple Twitch EventSub Websocket client for testing and debugging a single subscription.
+A simple Twitch EventSub Websocket client for testing and debugging a single subscription. 
+
+The tool connects to the EventSub gateway, creates your subscription, and prints all messages received. Stop the tool with Ctrl+C.
 
 ## Usage 
 ```
